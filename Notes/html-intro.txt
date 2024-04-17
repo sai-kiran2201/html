@@ -1,0 +1,25 @@
+What is HTML?
+HTML-Hper Text Markup Language.HTML is used to develop skeleton/structure of the page.HTML uses
+tags gor developing.
+HTML started from GML=>SGML=>HTML. Started in 1992.
+Current vesion is HTMLS.
+HTML tags wil have open and close.
+<tagname>-------open tagname
+</tagname>------close tagname
+Whole HTML code will be between html open and html close tagname
+HTML will have head and body.
+Comments in HTML.
+<!--  This is a comment --!>
+Write code with proper indentation.
+
+
+HTML : HperText Markup Language=> CERN=> 1992.
+Skeleton of the webpage is done in HTML.
+To write HTML,you need a text editor - VS code.
+Headings: headings represent data in bold.they vary from 
+
+
+
+
+
+Create a sample website HTML 
